@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{7FC711F9-0D0E-4358-91DB-273EC6E5D23E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vortex", "Vortex\Vortex.vcxproj", "{F6E5315A-B429-4C73-888A-E93485B79B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E5315A-B429-4C73-888A-E93485B79B16}.Debug|x64.ActiveCfg = Debug|x64
+		{F6E5315A-B429-4C73-888A-E93485B79B16}.Debug|x64.Build.0 = Debug|x64
+		{F6E5315A-B429-4C73-888A-E93485B79B16}.Release|x64.ActiveCfg = Release|x64
+		{F6E5315A-B429-4C73-888A-E93485B79B16}.Release|x64.Build.0 = Release|x64
+		{7FC711F9-0D0E-4358-91DB-273EC6E5D23E}.Debug|x64.ActiveCfg = Debug|x64
+		{7FC711F9-0D0E-4358-91DB-273EC6E5D23E}.Debug|x64.Build.0 = Debug|x64
+		{7FC711F9-0D0E-4358-91DB-273EC6E5D23E}.Release|x64.ActiveCfg = Release|x64
+		{7FC711F9-0D0E-4358-91DB-273EC6E5D23E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1C39AE-14ED-408C-A17A-C92B5FD8807A}
+	EndGlobalSection
+EndGlobal
